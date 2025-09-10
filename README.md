@@ -29,3 +29,8 @@ Built using **React.js, FastAPI, MySQL, and LLM APIs**. Fully containerized with
 ---
 
 ## 📂 Project Structure
+healthcare-chatbot/
+│── frontend/ # React.js Chat UI
+│── backend/ # FastAPI backend
+│── database/ # MySQL schema & dataset
+│── docker-compose.yml # Dockerized setup
